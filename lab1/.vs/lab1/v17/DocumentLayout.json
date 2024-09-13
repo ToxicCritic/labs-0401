@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\SP\\labs\\lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57C2F0B6-779B-4F38-9979-5B52D413ACE5}|lab1\\lab1.vcxproj|H:\\SP\\labs\\lab1\\lab1\\Triangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{57C2F0B6-779B-4F38-9979-5B52D413ACE5}|lab1\\lab1.vcxproj|solutionrelative:lab1\\Triangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C2F0B6-779B-4F38-9979-5B52D413ACE5}|lab1\\lab1.vcxproj|H:\\SP\\labs\\lab1\\lab1\\Triangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{57C2F0B6-779B-4F38-9979-5B52D413ACE5}|lab1\\lab1.vcxproj|solutionrelative:lab1\\Triangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C2F0B6-779B-4F38-9979-5B52D413ACE5}|lab1\\lab1.vcxproj|H:\\SP\\labs\\lab1\\lab1\\lab1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{57C2F0B6-779B-4F38-9979-5B52D413ACE5}|lab1\\lab1.vcxproj|solutionrelative:lab1\\lab1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Triangle.cpp",
+              "DocumentMoniker": "H:\\SP\\labs\\lab1\\lab1\\Triangle.cpp",
+              "RelativeDocumentMoniker": "lab1\\Triangle.cpp",
+              "ToolTip": "H:\\SP\\labs\\lab1\\lab1\\Triangle.cpp",
+              "RelativeToolTip": "lab1\\Triangle.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-13T12:06:38.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Triangle.h",
+              "DocumentMoniker": "H:\\SP\\labs\\lab1\\lab1\\Triangle.h",
+              "RelativeDocumentMoniker": "lab1\\Triangle.h",
+              "ToolTip": "H:\\SP\\labs\\lab1\\lab1\\Triangle.h",
+              "RelativeToolTip": "lab1\\Triangle.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-13T12:06:33.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lab1.cpp",
+              "DocumentMoniker": "H:\\SP\\labs\\lab1\\lab1\\lab1.cpp",
+              "RelativeDocumentMoniker": "lab1\\lab1.cpp",
+              "ToolTip": "H:\\SP\\labs\\lab1\\lab1\\lab1.cpp",
+              "RelativeToolTip": "lab1\\lab1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-13T12:05:19.941Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
